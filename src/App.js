@@ -77,13 +77,13 @@ function App() {
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"Financial"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Revenue from Leased Lines / Data Circuits / Landline /Broadband / Mobile from CTD for 2020-21"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Revenue from Leased Lines / Data Circuits / Landline /Broadband / Mobile from CTD for 2020-21"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"5%"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea  cols={12} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"100% fulfilment of revenue target of CTD"} />
+                      <textarea  cols={20} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"100% fulfilment of revenue target of CTD"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-16 text-center border-r' type='text' name='title' id='title' defaultValue={"60%"} />
@@ -108,10 +108,10 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"2"} />
                     </td>
                     <td rowSpan={5} className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea rows={2} className='w-24 text-center resize-none' type='text' name='title' id='title' defaultValue={"Operation and Maintenance"} />
+                      <textarea rows={3} className='w-24 text-center resize-none' type='text' name='title' id='title' defaultValue={"Operation and Maintenance"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={30} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of Exchange, EB circuits i.r.o. PCM faults (no. of hrs)"} />
+                      <textarea cols={30} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of Exchange, EB circuits i.r.o. PCM faults (no. of hrs)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"15%"} />
@@ -142,7 +142,7 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"3"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={30} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of BTS - 2G, 3G & CDMA i.r.o. PCM faults (no. of hrs)"} />
+                      <textarea cols={30} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of BTS - 2G, 3G & CDMA i.r.o. PCM faults (no. of hrs)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"15%"} />
@@ -173,7 +173,7 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"4"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Percentage of faulty BTS attended to restore fluctuation problem, error in transmission media in a month"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Percentage of faulty BTS attended to restore fluctuation problem, error in transmission media in a month"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"15%"} />
@@ -204,7 +204,7 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"5"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={30} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of DSLAMs i.r.o. PCM faults (no. of hrs)"} />
+                      <textarea cols={30} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Restoration of DSLAMs i.r.o. PCM faults (no. of hrs)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"15%"} />
@@ -235,7 +235,7 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"6"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Time taken for providing new media for new EB circuits, BTS, RLU, DSLAM etc. (no. of hrs)"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Time taken for providing new media for new EB circuits, BTS, RLU, DSLAM etc. (no. of hrs)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"15%"} />
@@ -266,10 +266,10 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"7"} />
                     </td>
                     <td rowSpan={2} className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea rows={2} className='w-24 text-center resize-none' type='text' name='title' id='title' defaultValue={"Employee development"} />
+                      <textarea rows={3} className='w-24 text-center resize-none' type='text' name='title' id='title' defaultValue={"Employee development"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Timely writing and submission of self APAR for the previous  year by 30th April.(delay in days)"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Timely writing and submission of self APAR for the previous  year by 30th April.(delay in days)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"5%"} />
@@ -300,7 +300,7 @@ function App() {
                     <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={"8"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Reporting and reviewing of APAR of all subordinate officers for previous year by 30th June.(delay in days)"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"Reporting and reviewing of APAR of all subordinate officers for previous year by 30th June.(delay in days)"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"5%"} />
@@ -334,7 +334,7 @@ function App() {
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"Customer"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
-                      <textarea cols={50} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"No. of CIC customers  he contacts in a month and satisfies them"} />
+                      <textarea cols={50} rows={3} className='text-center resize-none' type='text' name='title' id='title' defaultValue={"No. of CIC customers  he contacts in a month and satisfies them"} />
                     </td>
                     <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
                       <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={"10%"} />
