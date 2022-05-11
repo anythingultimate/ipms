@@ -132,7 +132,7 @@ function MultiSpanSubData({updateParentTotal, sn, kpi, weightage, target, good, 
         <input className='w-10 text-center' type='text' name='title' id='title' defaultValue={sn} />
       </td>
       <td className='px-2 py-2 text-xs font-light text-gray-900 border-r whitespace-nowrap'>
-        <textarea cols={38} rows={rows} className='text-center resize-none' type='text' name='title' id='title' defaultValue={kpi} />
+        <textarea cols={36} rows={rows} className='text-center resize-none' type='text' name='title' id='title' defaultValue={kpi} />
       </td>
       <td className='py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
         <input className='w-20 text-center' type='text' name='title' id='title' defaultValue={weightage} />
