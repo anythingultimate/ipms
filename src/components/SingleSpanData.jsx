@@ -133,7 +133,7 @@ function SingleSpanData({ updateParentTotal, sn, dimension, kpi, weightage, targ
       <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
         <input className='w-24 text-center' type='text' name='title' id='title' defaultValue={dimension} />
       </td>
-      <td className='px-2 py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>
+      <td className='px-2 py-2 text-xs font-light text-gray-900 border-r whitespace-nowrap'>
         <textarea cols={38} rows={2} className='text-center resize-none' type='text' name='title' id='title' defaultValue={kpi} />
       </td>
       <td className='py-2 text-sm font-light text-gray-900 border-r whitespace-nowrap'>

@@ -9,7 +9,7 @@ function Head() {
       <th scope='col' className='px-2 py-2 text-sm font-medium text-gray-900 border-r'>
         <input className='w-24 font-semibold text-center' type='text' name='title' id='title' defaultValue={"Dimension"} />
       </th>
-      <th scope='col' className='px-2 py-2 text-sm font-medium text-gray-900 border-r '>
+      <th scope='col' className='px-2 py-2 text-xs font-medium text-gray-900 border-r '>
         <input className='font-semibold text-center' type='text' name='title' id='title' defaultValue={"KPI"} />
       </th>
       <th scope='col' className='py-2 text-sm font-medium text-gray-900 border-r '>

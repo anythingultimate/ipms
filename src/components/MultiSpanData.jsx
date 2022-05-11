@@ -134,7 +134,7 @@ function MultiSpanData({updateParentTotal ,sn, dimension, kpi, weightage, target
       <td rowSpan={rowSpan} className='px-2 py-2 text-sm font-light text-gray-900 border-r '>
         <textarea rows={2} className='w-24 text-center resize-none' type='text' name='title' id='title' defaultValue={dimension} />
       </td>
-      <td className='px-2 py-2 text-sm font-light text-gray-900 border-r '>
+      <td className='px-2 py-2 text-xs font-light text-gray-900 border-r '>
         <textarea cols={30} rows={rows} className='text-center resize-none' type='text' name='title' id='title' defaultValue={kpi} />
       </td>
       <td className='py-2 text-sm font-light text-gray-900 border-r '>
